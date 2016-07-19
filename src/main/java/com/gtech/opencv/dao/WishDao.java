@@ -1,4 +1,4 @@
-package com.gtech.onepage.dao;
+package com.gtech.opencv.dao;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -12,7 +12,7 @@ import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.ResultSetExtractor;
 
-import com.gtech.onepage.model.GenericResult;
+import com.gtech.opencv.model.GenericResult;
 
 @Named
 public class WishDao {

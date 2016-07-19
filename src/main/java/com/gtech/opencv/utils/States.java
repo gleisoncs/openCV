@@ -1,4 +1,4 @@
-package com.gtech.onepage.utils;
+package com.gtech.opencv.utils;
 
 public enum States {
 	MASSACHUSETTS("Massachusetts", "MA", ""), 

@@ -1,4 +1,4 @@
-package com.gtech.onepage.model;
+package com.gtech.opencv.model;
 
 import java.util.List;
 

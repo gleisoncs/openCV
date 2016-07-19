@@ -1,12 +1,12 @@
-package com.gtech.onepage.service;
+package com.gtech.opencv.service;
 
 import java.util.List;
 
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import com.gtech.onepage.dao.UserDao;
-import com.gtech.onepage.model.GenericResult;
+import com.gtech.opencv.dao.UserDao;
+import com.gtech.opencv.model.GenericResult;
 
 @Named
 public class UserService {

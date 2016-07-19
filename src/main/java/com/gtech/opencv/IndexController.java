@@ -1,4 +1,4 @@
-package com.gtech.onepage;
+package com.gtech.opencv;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

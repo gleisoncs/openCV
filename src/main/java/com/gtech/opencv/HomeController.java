@@ -1,4 +1,4 @@
-package com.gtech.onepage;
+package com.gtech.opencv;
 
 import java.util.Collections;
 import java.util.List;
@@ -10,8 +10,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.gtech.onepage.model.GenericResult;
-import com.gtech.onepage.service.UserService;
+import com.gtech.opencv.model.GenericResult;
+import com.gtech.opencv.service.UserService;
 
 @Controller
 public class HomeController {
